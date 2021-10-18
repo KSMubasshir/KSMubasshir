@@ -1,6 +1,6 @@
 ## Hello, This is Kazi Samin Mubasshir!
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo&show_icons=true"/>](https://github.com/KSMubasshir/)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=KSMubasshir&show_icons=true"/>](https://github.com/KSMubasshir/)
 
 
 
