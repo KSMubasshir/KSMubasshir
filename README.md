@@ -12,7 +12,7 @@
 - Currently working on XAI and different data driven predictive, analytical projects .
 
 
-*To know more:*  [Portfolio](https://sites.google.com/view/ksmubasshir), [LinkedIn](https://www.linkedin.com/in/kazi-samin-mubasshir/), [Email](mailto:ksmubasshir@gmail.com), [Github](https://github.com/KSMUbasshir), , [ResearchGate](https://www.researchgate.net/profile/Kazi-Samin-Mubasshir)
+*To know more:*  [Portfolio](https://sites.google.com/view/ksmubasshir), [LinkedIn](https://www.linkedin.com/in/kazi-samin-mubasshir/), [Email](mailto:ksmubasshir@gmail.com), [Github](https://github.com/KSMUbasshir), , [ResearchGate](https://www.researchgate.net/profile/Kazi-Samin-Mubasshir), [Google Scholar](https://scholar.google.com/citations?user=R6lJbKIAAAAJ&hl=en)
 <br/>
 Check the repositories section to see my efforts! Hope, you will enjoy it!
 <br/>
