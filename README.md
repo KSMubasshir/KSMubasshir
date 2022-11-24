@@ -7,7 +7,7 @@
 - **Former Machine Learning Engineer @ ACI Limited**
 - **Security Researcher**
 - **2.5 years of experience in ML, DS, Natural Language Processing**
-#### Currently looking for Data Scientist, Graduate studies opportunities!
+<!-- #### Currently looking for Data Scientist, Graduate studies opportunities! -->
 - Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from Bangladesh University of Engineering & Technology [(BUET)](https://www.buet.ac.bd/)
 - Currently working on XAI and different data driven predictive, analytical projects .
 
