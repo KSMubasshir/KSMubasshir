@@ -3,6 +3,7 @@
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=KSMubasshir&show_icons=true"/>](https://github.com/KSMubasshir/)
 
 
+- **Applied Scientist Intern @ Amazon**
 - **Graduate Research Assistant @ Purdue University**
 - **Former Machine Learning Engineer @ ACI Limited**
 - **Security Researcher**
