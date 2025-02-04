@@ -6,7 +6,7 @@
 
 
 - **Applied Scientist Intern (Summer '24) @ Amazon**
-- **Graduate Research Assistant @ Purdue University**
+- **Graduate Teaching Assistant @ Purdue University**
 - **Former Machine Learning Engineer @ ACI Limited**
 - **Security Researcher**
 - **Experienced in ML, DS, Natural Language Processing, Network Security, Cellular Networks**
