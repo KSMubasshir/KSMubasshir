@@ -1,5 +1,5 @@
 # Kazi Samin Mubasshir
-## GRA @ Purdue CS | 1x AWS | Opinions are my own
+## PhD Student @ Purdue CS | Ex Amazon | Opinions are my own
 
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=KSMubasshir&show_icons=true"/>](https://github.com/KSMubasshir/)
