@@ -8,10 +8,10 @@
 - **Amazon Campus Brand Ambassador (March '25 - Present) @ Purdue University**
 - **Applied Scientist Intern (Summer '24) @ Amazon**
 - **Graduate Teaching Assistant @ Purdue University (Spring '25 - Present)**
-- **Graduate Teaching Assistant @ Purdue University (Fall '22 - Fall '24)**
+- **Graduate Research Assistant @ Purdue University (Fall '22 - Fall '24)**
 - **Former Machine Learning Engineer @ ACI Limited (Sep '20 - Aug '22)**
 - **Security Researcher**
-- **Experienced in ML, DS, Natural Language Processing, Network Security, Cellular Networks**
+- **Experienced in ML, DS, Natural Language Processing, Network Security, Cellular Networks, ORAN, LTE, 5G, FBS**
 <!-- #### Currently looking for Data Scientist, Graduate studies opportunities! -->
 - Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from Bangladesh University of Engineering & Technology [(BUET)](https://www.buet.ac.bd/)
 
