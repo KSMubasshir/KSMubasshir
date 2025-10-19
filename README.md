@@ -1,13 +1,13 @@
 # Kazi Samin Mubasshir
-## Amazon Campus Brand Ambassador | PhD Student @ Purdue CS | Ex Amazon | Opinions are my own
+## PhD Student @ Purdue CS | 2x Applied Scientist Intern @ AWS | Amazon Campus Brand Ambassador
 
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=KSMubasshir&show_icons=true"/>](https://github.com/KSMubasshir/)
 
 
 - **Amazon Campus Brand Ambassador (March '25 - Present) @ Purdue University**
-- **Applied Scientist Intern (Summer '24) @ Amazon**
-- **Graduate Teaching Assistant @ Purdue University (Spring '25 - Present)**
+- **Applied Scientist Intern (Summer '24, '25) @ Amazon**
+- **Graduate Teaching Assistant @ Purdue University (Spring '25)**
 - **Graduate Research Assistant @ Purdue University (Fall '22 - Fall '24)**
 - **Former Machine Learning Engineer @ ACI Limited (Sep '20 - Aug '22)**
 - **Security Researcher**
