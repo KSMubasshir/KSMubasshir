@@ -1,5 +1,5 @@
 # Kazi Samin Mubasshir
-## Applied Scientist Intern @ Amazon | Amazon Campus Brand Ambassador | PhD Student @ Purdue CS | Opinions are my own
+## PhD Student @ Purdue CS | 2x Applied Scientist Intern @ AWS | Amazon Campus Brand Ambassador
 
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=KSMubasshir&show_icons=true"/>](https://github.com/KSMubasshir/)
